@@ -168,8 +168,7 @@
               "RelativeToolTip": "MVCDHProject\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACMBAAAAAAAAAAAUwCUBAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T05:32:35.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T05:32:35.818Z"
             },
             {
               "$type": "Document",
@@ -181,8 +180,7 @@
               "RelativeToolTip": "MVCDHProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T04:55:26.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:55:26.09Z"
             },
             {
               "$type": "Document",
@@ -194,8 +192,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T05:16:51.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:16:51.059Z"
             },
             {
               "$type": "Document",
@@ -207,8 +204,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\ResetPassword.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T14:18:44.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T14:18:44.995Z"
             },
             {
               "$type": "Document",
@@ -220,8 +216,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\ForgotPassword.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T13:48:56.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:48:56.837Z"
             },
             {
               "$type": "Document",
@@ -231,7 +226,7 @@
               "RelativeDocumentMoniker": "MVCDHProject\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Asp\\MVCDHProject\\MVCDHProject\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "MVCDHProject\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T05:07:20.901Z",
               "EditorCaption": ""
@@ -246,8 +241,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\CustomerSqlDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T05:54:18.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T05:54:18.013Z"
             },
             {
               "$type": "Document",
@@ -259,8 +253,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAswC8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-20T06:04:50.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T06:04:50.472Z"
             },
             {
               "$type": "Document",
@@ -272,8 +265,7 @@
               "RelativeToolTip": "MVCDHProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-18T05:46:22.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T05:46:22.191Z"
             },
             {
               "$type": "Document",
@@ -285,8 +277,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-21T05:59:20.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T05:59:20.841Z"
             },
             {
               "$type": "Document",
@@ -298,8 +289,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T17:11:32.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T17:11:32.014Z"
             },
             {
               "$type": "Document",
@@ -311,8 +301,7 @@
               "RelativeToolTip": "..\\MasterPage - Copy\\MasterPage\\WebForm1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-02-21T10:16:05.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T10:16:05.979Z"
             },
             {
               "$type": "Document",
@@ -324,8 +313,7 @@
               "RelativeToolTip": "MVCDHProject\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-25T05:48:59.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T05:48:59.404Z"
             },
             {
               "$type": "Document",
@@ -337,8 +325,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\ForgotPasswordViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:33:36.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:33:36.593Z"
             },
             {
               "$type": "Document",
@@ -350,8 +337,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\ResetPasswordViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:14:57.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T14:14:57.741Z"
             },
             {
               "$type": "Document",
@@ -363,8 +349,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Account\\DisplayMessages.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T16:56:13.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T16:56:13.943Z"
             },
             {
               "$type": "Document",
@@ -376,8 +361,7 @@
               "RelativeToolTip": "MVCDHProject\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T07:07:28.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T07:07:28.901Z"
             },
             {
               "$type": "Document",
@@ -389,8 +373,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Shared\\DsiplayMessages.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-23T05:20:53.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T05:20:53.313Z"
             },
             {
               "$type": "Document",
@@ -402,8 +385,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-21T05:47:13.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T05:47:13.949Z"
             },
             {
               "$type": "Document",
@@ -415,8 +397,7 @@
               "RelativeToolTip": "MVCDHProject\\Controllers\\ErrorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T10:32:07.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T10:32:07.982Z"
             },
             {
               "$type": "Document",
@@ -428,8 +409,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\CustomerXmlDAL.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAswAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T05:23:08.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:23:08.6Z"
             },
             {
               "$type": "Document",
@@ -441,8 +421,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T04:59:07.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T04:59:07.126Z"
             },
             {
               "$type": "Document",
@@ -454,8 +433,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T05:29:51.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T05:29:51.308Z"
             },
             {
               "$type": "Document",
@@ -467,8 +445,7 @@
               "RelativeToolTip": "..\\..\\Csharp - Copy\\first.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T07:11:15.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T07:11:15.637Z"
             },
             {
               "$type": "Document",
@@ -480,8 +457,7 @@
               "RelativeToolTip": "MVCDHProject\\Migrations\\20260220062635_AddIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T06:26:35.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T06:26:35.749Z"
             },
             {
               "$type": "Document",
@@ -493,8 +469,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\MVCCoreDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T05:43:42.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T05:43:42.188Z"
             },
             {
               "$type": "Document",
@@ -506,8 +481,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Shared\\ServerErrorView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T10:43:16.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T10:43:16.405Z"
             },
             {
               "$type": "Document",
@@ -519,8 +493,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\ICustomerDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T05:05:04.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T05:05:04.705Z"
             },
             {
               "$type": "Document",
@@ -532,8 +505,7 @@
               "RelativeToolTip": "MVCDHProject\\Models\\UserViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T05:28:08.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T05:28:08.661Z"
             },
             {
               "$type": "Document",
@@ -545,8 +517,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Shared\\ClientErrorView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T10:20:37.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T10:20:37.559Z"
             },
             {
               "$type": "Document",
@@ -558,8 +529,7 @@
               "RelativeToolTip": "MVCDHProject\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T10:12:32.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T10:12:32.42Z"
             },
             {
               "$type": "Document",
@@ -571,8 +541,7 @@
               "RelativeToolTip": "MVCDHProject\\Migrations\\20260218062938_InitialMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T06:29:39.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T06:29:39.285Z"
             },
             {
               "$type": "Document",
@@ -584,8 +553,7 @@
               "RelativeToolTip": "MVCDHProject\\Customer.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-02-16T05:17:36.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:17:36.509Z"
             },
             {
               "$type": "Document",
@@ -597,8 +565,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Customer\\EditCustomer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T05:12:53.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:12:53.987Z"
             },
             {
               "$type": "Document",
@@ -610,8 +577,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Customer\\AddCustomer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T05:11:46.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:11:46.893Z"
             },
             {
               "$type": "Document",
@@ -623,8 +589,7 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Customer\\DisplayCustomer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T05:11:08.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:11:08.303Z"
             },
             {
               "$type": "Document",
@@ -636,8 +601,11 @@
               "RelativeToolTip": "MVCDHProject\\Views\\Customer\\DisplayCustomers.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-16T05:09:27.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T05:09:27.406Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
