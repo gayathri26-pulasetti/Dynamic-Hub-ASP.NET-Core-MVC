@@ -1,68 +1,53 @@
-# MVCDHProject — ASP.NET Core MVC
+# Dynamic Hub Web Application
 
 ## 📌 Project Overview
-A comprehensive ASP.NET Core MVC application covering
-complete web development concepts from data management
-to authentication and authorization.
+Dynamic Hub is a full-stack web application developed using ASP.NET Core MVC. The project demonstrates end-to-end web development concepts including authentication, authorization, database management, and external integrations.
 
-## 📁 Topics Covered
+## 🚀 Features
+- User Registration and Login using ASP.NET Core Identity
+- Role-based Authorization for secure access
+- Google OAuth 2.0 integration for external login
+- Email confirmation during registration using SMTP
+- Password reset functionality with secure token-based system
+- CRUD operations using Entity Framework Core
+- XML data handling with LINQ to XML
+- Custom error handling middleware for exception management
 
-### 1. XML Data Management
-- Read and Write data using XML files
-- LINQ to XML queries
-- XML serialization and deserialization
+## 🛠️ Tech Stack
+- Backend: ASP.NET Core MVC, C#
+- Database: SQL Server
+- ORM: Entity Framework Core (Code First)
+- Authentication: ASP.NET Core Identity
+- External Login: Google OAuth 2.0
+- Email Service: SMTP
+- Frontend: HTML, CSS, Bootstrap
+- Data Handling: XML, LINQ to XML
 
-### 2. Entity Framework Core
-- Code First approach
-- Database migrations
-- CRUD operations with EF Core
-- SQL Server integration
-
-### 3. Dependency Injection
-- Interface-based programming
-- Service registration in Program.cs
-- Constructor injection
-
-### 4. Error Handling Middleware
-- Custom error pages
-- Exception handling pipeline
-- Logging errors
-
-### 5. ASP.NET Core Identity
-- User Registration & Login
-- Password Hashing
-- Role-based Authorization
-
-### 6. Email Confirmation
-- Email verification on registration
-- SMTP configuration
-- Token-based email confirmation
-
-### 7. Password Reset
-- Forgot password functionality
-- Reset password via email link
-- Token-based password reset
-
-### 8. Google OAuth Login
-- Login with Google account
-- OAuth 2.0 integration
-- External authentication setup
-
-## 💻 Tech Stack
-- C# | ASP.NET Core MVC
-- Entity Framework Core
-- SQL Server
-- ASP.NET Core Identity
-- Google OAuth 2.0
-- SMTP Email Service
-- XML Data Management
-- HTML | CSS | Bootstrap
-
-## 🔑 Key Concepts
+## ⚙️ Key Concepts Implemented
 - MVC Architecture Pattern
 - Dependency Injection
-- Authentication & Authorization
-- OAuth External Login
-- Email Services
+- Authentication and Authorization
+- OAuth External Login Integration
+- Email Services (Verification & Password Reset)
 - Error Handling Middleware
-- Code First Database Approach
+- Code First Approach with Migrations
+
+## 📂 Modules Covered
+- XML Data Management (Read/Write, Serialization)
+- Entity Framework Core CRUD Operations
+- Dependency Injection using Interfaces
+- Custom Middleware for Error Handling
+- ASP.NET Core Identity Implementation
+- Email Confirmation & Password Reset
+- Google OAuth Login Integration
+
+## ▶️ How to Run
+1. Clone the repository
+2. Open the project in Visual Studio
+3. Configure SQL Server connection string
+4. Configure SMTP settings for email services
+5. Add Google OAuth credentials in appsettings.json
+6. Run the application
+
+## 👩‍💻 Author
+Gayathri Pulasetti
